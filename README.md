@@ -99,4 +99,4 @@ README.md
 Aspiring Data Analyst
 
 - GitHub: https://github.com/saisahithipalacharla27
-- LinkedIn: *(Add your LinkedIn URL here)*
+- LinkedIn: https://www.linkedin.com/in/sahithipalacharla/
